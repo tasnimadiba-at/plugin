@@ -1,0 +1,36 @@
+css
+html
+
+media quiry or braking point
+
+css use kore website sajano hoy
+kintu media quiry or breaking point diye device screen onupate content_gulaok sajano hoy
+
+
+col/extra small - 320 - 575
+samll           - 576 - 767
+md              - 768 - 991
+lg              - 992 - 1199
+xl              - 1200 - 1399
+xxl             - 1400 - 
+
+
+
+js / jq plugin
+
+google search korbo
+github/website egula dekhbo
+demo/doc/example egular madhom a
+
+khub olpo somoy integration kore early kj korte parbo
+
+amra demo gula besi dekhbo
+
+-counter plugin
+
+
+file
+markup
+style
+activation- avabe plugin korte hoy
+
